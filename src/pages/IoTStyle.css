@@ -1,0 +1,17 @@
+#main {
+    display: table;
+    margin: auto;
+    padding: 0 10px 0 10px;
+}
+
+.button {
+    padding: 10px;
+    width: 100%;
+    background-color: #4CAF50;
+    font-size: 120%;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
