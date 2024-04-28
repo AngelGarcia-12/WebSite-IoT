@@ -27,14 +27,12 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the money.</h2>
+        <h2 className={styles.heading2}>Get the control, <br className='sm:block hidden'/>we'll handle security.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, 
-          you can improve your financial life by building credit,
-          earning rewards and saving money.
-          But with hundreds of credit cards on the market.
+          With the right component,
+          you can convert your home, company or any place in the future,
+          become smart and be anywhere you want.
         </p>
-        <Button styles='mt-10'/>
       </div>
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature, index) => (

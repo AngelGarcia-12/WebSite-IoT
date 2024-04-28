@@ -9,6 +9,9 @@ import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
+import smartlamp from './smart-lamp.png';
+import smartcamera from './smart-camera.png';
+import smartfridge from './smart-fridge.jpg';
 import star from "./Star.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -37,6 +40,9 @@ export {
   send,
   shield,
   star,
+  smartlamp,
+  smartcamera,
+  smartfridge,
   menu,
   close,
   google,

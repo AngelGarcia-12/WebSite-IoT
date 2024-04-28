@@ -41,7 +41,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Facilitate control of any smart device with just a click away",
   },
   {
     id: "feature-2",
@@ -53,9 +53,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Accessibility",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Wherever you are, you will have access to the connection to your device.",
   },
 ];
 
